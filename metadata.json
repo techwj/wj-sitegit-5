@@ -1,0 +1,59 @@
+{
+  "siteId": "frozen-ingredient-creative-uses",
+  "generatedAt": "2026-06-02T14:55:59.192601",
+  "categories": [
+    "beginner-frozen-ingredient-creative-uses",
+    "advanced-frozen-ingredient-creative-uses",
+    "tips-frozen-ingredient-creative-uses",
+    "history-frozen-ingredient-creative-uses",
+    "trending-frozen-ingredient-creative-uses",
+    "tutorials-frozen-ingredient-creative-uses"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-frozen-ingredient-creative-uses",
+      "category_name": "Beginner Frozen Ingredient Creative Uses"
+    },
+    {
+      "category_slug": "advanced-frozen-ingredient-creative-uses",
+      "category_name": "Advanced Frozen Ingredient Creative Uses"
+    },
+    {
+      "category_slug": "tips-frozen-ingredient-creative-uses",
+      "category_name": "Frozen Ingredient Creative Uses Tips"
+    },
+    {
+      "category_slug": "history-frozen-ingredient-creative-uses",
+      "category_name": "Frozen Ingredient Creative Uses History"
+    },
+    {
+      "category_slug": "trending-frozen-ingredient-creative-uses",
+      "category_name": "Trending Frozen Ingredient Creative Uses"
+    },
+    {
+      "category_slug": "tutorials-frozen-ingredient-creative-uses",
+      "category_name": "Frozen Ingredient Creative Uses Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "frozen-ingredient-creative-uses",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Frozen Ingredient Creative Uses Central",
+    "articles_per_row": 2
+  }
+}
